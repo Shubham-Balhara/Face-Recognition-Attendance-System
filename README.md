@@ -2,7 +2,7 @@
 Attendance Management System based on Face Recognition using Python  and OpenCv  
 
 ### Sourcerer
-##Shubham Balhara
+Shubham Balhara
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
